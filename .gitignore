@@ -12,3 +12,4 @@ wheels/
 # Others
 .python-version
 pyproject.toml
+uv.lock
